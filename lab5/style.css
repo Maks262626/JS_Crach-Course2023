@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    background-color: #011936;
+    color: #F4FFFD;
+    height: 100vh;
+    font-size: 40px;
+}
+.time{
+    padding: 100px 40px;
+    background-color: #F9DC5C;
+    border-radius: 50px;
+    color: #ED254E;
+    font-weight: bold;
+}
+.wrapper{
+   padding-top: 10px;
+}
+.btn{
+    border: 1px solid #000;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #F9DC5C;
+    padding: 20px;
+}
